@@ -5,6 +5,7 @@ Kirogi is a ground control application for drones. Take to the skies, open sourc
 ### Screenshot
 
 ![A screenshot of Kirogi's in-flight UI](https://kirogi.org/assets/img/kirogi.webp "Kirogi's in-flight UI")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpatrickelectric%2Fkirogi.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpatrickelectric%2Fkirogi?ref=badge_shield)
 
 ### Features
 
@@ -69,6 +70,9 @@ The Kirogi project was started in South Korea. Kirogi (written "기러기" in th
 _Wild_ geese are known as expert flyers. Kirogi's mascot is a farm goose with an adventurous spirit, who flies just as well thanks to the use of superior technology.
 
 ## Technology and License
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpatrickelectric%2Fkirogi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpatrickelectric%2Fkirogi?ref=badge_large)
 
 ### Does Kirogi support [MAVLink](https://en.wikipedia.org/wiki/MAVLink)?
 
